@@ -6,4 +6,5 @@
 ### Si los lectores no entregan el libro a tiempo recibiran una penalizacion.
 ### La biblioteca cuenta con una ficha de cada lector que almacena su numero de identificacion, su nombre y su direccion postal.
 ### Los empleados de la biblioteca, que poseen su propia identificacion, pueden llevar libros a casa por un plazo mayor que los usuarios convencionales.
+
 ![uml examen](https://github.com/DavidTous/Examen-Entornos-David-Tous-Rodriguez/assets/118205695/8c05829a-e9b8-49f9-aa50-735713301cb9)
